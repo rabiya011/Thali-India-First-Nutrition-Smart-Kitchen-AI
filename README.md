@@ -236,8 +236,8 @@ It is a **daily health companion built for India**.
 
 **Codewarts**
 
-- Shreya Yergol  
 - Rabiya Begum  
+- Shreya Yergol   
 - Saanvi Gaikwad  
 - Renuka Gurusunagi  
 
